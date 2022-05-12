@@ -1,0 +1,35 @@
+DAY 2 :  TOTAL TIME : 42m
+
+
+1. Providing CSS 
+
+We can select elements and apply CSS by their type, class, attribute or ID
+
+3 ways to provide css : internal (styling in an HTML document) , external(written in a separate file ) , and inline styles ( written in an HTML element by using the style attribute). 
+Example : in Providing CSS folder 
+
+External is the best choice because it is easy to make a change on muliple HTML files that link to CSS file 
+
+2. Basic selector 
+target="_blank" : Open link in a new tab of the browser
+a[href^="https"] : Apply CSS  to attribute that starts with given value (here is "https") 
+a[href$=".com"] : Apply CSS  to attribute that starts with given value (here is ".com") 
+Example : Basic selector folder
+
+3. Relational selector 
+#products p {} : Apply css  to <p> element (paragraph) inside the product ID 
+Example : Relational selector folder
+
+
+4. Pseudo-class Selectors
++Pseudo-class : always start with a single colon 
+
+article :first-child {}: Apply css to the first element of <article> element 
+article :last-child {}: Apply css to the last element of <article> element 
+article :first-of-type {} : Apply CSS to the first appearance of elements that have in <article> elements
+article :last-of-type {} : Apply CSS to the last appearance of elements that have in <article> elements 
+
+a:visited {}: Apply css to the hyperlink that we have visited 
+a:hover{}   : Apply css to the hyperlink that we hover on (move the mouse to)
+Example : In Pseudo-class Selectors folder
+
