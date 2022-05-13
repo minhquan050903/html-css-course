@@ -1,0 +1,26 @@
+DAY 2 TOTAL 28min
+
+1. CSS Inheritance 
+color : initial ; : apply default color (black)
+
+Some CSS attributes are inherited from their parent element. Text stylistic attributes such as text colour, font, font size, and so on are often inherited.
+ We can halt inheritance by setting a property's value to initial. To enforce inheritance, we should set the value of an inheritable property.
+
+Example : Inheritance file 
+
+2.Colors 
+4 ways to present colors in CSS 
+
+- use named color
+- RGB value  
+- HSL value
+- Hexadecimal value
+
+3. Gradients
+background: linear-gradient(dodgerblue,yellow) : transfer from blue to yellow (from top to bottom by default ))
+Gradients are images so they cannot be used as the value of background-color property. We can use them as the value of background-imageor background properties.
+
+4. Borders 
+border: 10px solid royalblue; : border with thickness of 10pixels , solid type and have royal blue color 
+The border property is a shortcut for the border-top, border-right, border-bottom, and border-left properties. It accepts three values: the border's thickness, style, and colour.
+We also have border-width, border-style, and border-color attributes. For the top, right, bottom, and left borders, these attributes accept four values.
