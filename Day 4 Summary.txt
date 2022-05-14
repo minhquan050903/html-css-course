@@ -1,0 +1,25 @@
+DAY 5 - 40m
+
+1.  CSS Exercises 
+
+
+2. Box model 
+The box contains four areas: 
+The content area : 
+The padding area : the space between the border and the content
+The border area :
+The margin area : the space outside of an element and should be used to separate elements from each other
+
+
+3.Overflowing
+overflow: hidden; Hides the overflown content 
+overflow: scroll; Always shows scroll bars
+overflow: auto;   Shows scroll bars only if content overflows
+
+4. Positioning
+position: static; The default value
+position: relative; To position relative to the element’s normal position
+position: absolute; To position relative to the element’s positioned parent
+position: fixed; To position relative to the viewport 
+z-index: 1; To change the stacking order of an element 
+
