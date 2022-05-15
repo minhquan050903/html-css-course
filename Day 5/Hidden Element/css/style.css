@@ -1,0 +1,20 @@
+
+article :first-child {
+    color: blue;
+}
+article :last-child {
+    color: green;
+}
+article :first-of-type {
+    font-style: italic;
+} 
+article :last-of-type {
+    font-weight: bold\;
+} 
+
+a:visited {
+    color: red;
+}
+a:hover{
+    color : blue;
+}   
