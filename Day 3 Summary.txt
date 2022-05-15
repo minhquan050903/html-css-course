@@ -1,4 +1,4 @@
-DAY 2 TOTAL 28min
+DAY 3 TOTAL 28min
 
 1. CSS Inheritance 
 color : initial ; : apply default color (black)
