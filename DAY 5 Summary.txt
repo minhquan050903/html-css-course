@@ -1,0 +1,18 @@
+DAY 5 - 27m
+
+1.Flexbox
+display: flex;           apply the flex layout for a container
+flex-direction: column:  modify the direction (row or column)
+flex-wrap: wrap; :       enable wrapping
+align-self: center;      overwrite the alignment 
+flex-basis: 10rem;       initialize the size of the item (10rem) 
+
+2.Allignment
+justify-items: center;  align the items horizontally 
+align-items: center;    align the items vertically 
+justify-content: center;align the grid horizontally 
+align-content: center   align the grid vertically  
+
+3. Hiding element
+display: none;      hide the element
+visibility: hidden; hide the element but save the space for that element 
