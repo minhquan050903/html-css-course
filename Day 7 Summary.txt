@@ -1,0 +1,25 @@
+Day 7 - 25m
+
+Font size 
+small	      set to small size	
+large	      set to large size	
+smaller	set to smaller size than the parent element	
+larger	set to a larger size than the parent element	
+initial	set this property to its default value. 
+inherit	inherits from its parent element
+
+Vertical Spacing  
+line-height: ;
+normal	set to default value 	
+initial	Sets this property to its default value 
+inherit	inherits from its parent element 
+
+Horizontal spacing
+letter-spacing: ;  set the space between letters 
+word-spacing: ;    set the space between words   
+width: ;           set the width of an element (not apply on padding, borders, or margins) 
+
+Text formatted : 
+text-align: ;    definite the horizontal alignment of text 
+text-indent ;    definite the indentation of the first line of the paragraph
+text-transform:; enable capitalization(default is not)
