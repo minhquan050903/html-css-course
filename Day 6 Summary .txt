@@ -1,0 +1,10 @@
+Day 6 - 34m
+1. Exercises 
+Create a navigation bar and photo gallery
+
+2.Styling fonts
+Fonts have three main categories: 
+Serif               have a line/stroke at the edges of their characters => professional and serious
+Sans-serif          don’t have those edges=> modern and friendly
+Monospace.          have equal-width characters =>used in displaying code
+font-family: Arial; set the font for the element.
