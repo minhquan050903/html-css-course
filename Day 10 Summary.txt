@@ -1,0 +1,11 @@
+Day 10 : 40m
+
+Clips : 
+clip-path : clip an image 
+Tool : https://bennettfeely.com/clippy/ => Generate a clip path of the image 
+Filters :
+Apply visual effect on the image  (ex : blur or grayscale)
+
+Exercise: 
+-Create a task bar menu with icons 
+-Create a banner
