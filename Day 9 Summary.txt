@@ -1,0 +1,21 @@
+Day 9 - 25m
+
+Image format :
+Images have two categories:
+Raster :made up of pixels (extension : JPG , PNG , GIF)
+Vector :a set of mathematical vectors (like lines and curves)(Extension SVG) ) 
+
+
+Back-ground and Content Images
+background-image :           set background images for the element 
+background-position :        set the starting point for background image
+background-repeat :          set how background image repeated
+images/meal.jpg    1x : use for fixed-size images 
+
+Sprites : 
+Using CSS sprites to combine multiple images into a single image ( which called sprite). This helps reduce the number of HTTP requests
+Tool : https://cssspritestool.com.
+
+Data URL : 
+Data URLs allow us to import picture data in an HTML text or stylesheet. 
+The embedded code is always larger than the original resource, making the document complicated and difficult to maintain.
