@@ -1,0 +1,18 @@
+DAy 11 - 24m
+
+1.HTML Labels
+<label> tag defines a label for elements. Example : <input type="color">
+=>Label elements make our forms more accessible.
+
+2.Input
+Use the <input> element to accept data from the user. The type attribute of the input 
+will be the type of the input field and it can be text, password, email, 
+checkbox, radio, range, date, file 
+
+3. Drop-down list
+use <select> element To display a drop-down list (which is a list element that will appear vertically when you click on it ). This one can contain one 
+or more option elements. 
+
+4.Related fields
+The fieldset element is used to group related input fields. 
+We can also use the section element to group related fields.
