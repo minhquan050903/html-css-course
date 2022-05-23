@@ -1,0 +1,16 @@
+Day 12 - 35m 
+
+1.Hidden Fields
+Hidden fields are not visible to the user and are often used to specify the ID of the content being edited.
+=> DONT use them to store personal information (Ex : address, card number) because they can be accessed via the source code. 
+
+2. Validation
+Common validation attributes : 
+required : specify that an input field must be filled out 
+minlength : specify the minimum number of characters
+maxlength : specify the maximum number of characters 
+min       : specify the minimum values
+max       : specify the maximum values 
+Note : min and max only work with number, date, month, time and week 
+
+3.Exercise : Create a login page 
