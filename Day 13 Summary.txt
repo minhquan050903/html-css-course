@@ -1,0 +1,12 @@
+Day 13 - 30m
+
+Animation 
+
+Use the [transform] to apply transformations to element 
+The most common transformation functions are 
+rotate(angle)                : rotate with definited angle  
+skew(x-angle,y-angle)        : define a 2D skew transformation along the X- and the Y-axis
+To create a custom animation, define the keyframes which includes the list of styles to be applied.
+Once we define the keyframes, we can use the animation property to animate an element. 
+
+Animation Exercises 
