@@ -1,0 +1,15 @@
+Day 14 -23m
+
+1. Writing Clean, Maintainable CSS
+-For a small project, write all of CSS rules in ONLY ONE stylesheet. 
+-Use comments to create logical sections in stylesheet.
+-For a more complex one,separate stylesheet into multiple files and combine them together
+-Avoid over-specific selectors (dont apply to much selector on an element (best : 2-3 selectors)) 
+-Avoid the !important keyword as much as possible. *Reason : !important change the piority of the CSS selectors => It will break natural cascading => Its hard to debug  
+-Sort CSS properties (seperate unralative properties by using line breaks)
+-Use inheritance  and reduce duplication (easy to make a change because we only need to modify the parent element ) 
+
+2. OOP CSS 
+2 types : 
+-Separate container :          review what is common between different elements, then separate those common features into modules, or objects 
+-Separate structure and skin : all elements using classes and the common styles are combine into a reusable “skin” class => Recude the duplicate
