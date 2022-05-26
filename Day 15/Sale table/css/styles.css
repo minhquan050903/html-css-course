@@ -1,0 +1,28 @@
+body {
+  margin: 10px;
+}
+
+table, td, th {
+
+  border: 1px solid #c4dcf3;
+  border-left: 0;
+  border-right: 0;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 10px;
+}
+
+th {
+  background-color: #e142ef;
+  color: white;
+}
+
+tr:nth-child(odd) {
+  background-color: #eca2d4;
+}
+
+tfoot {
+  text-align: left;
+}
