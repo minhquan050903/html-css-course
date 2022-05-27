@@ -1,0 +1,12 @@
+Day 16 -20m
+
+Web Fundamentals
+HTTP (Hypertext Transfer Protocol) is a set of rules that clients and servers use to communicate and exchange data (text, images, sound, video,..).
+When a website is opened, the browser (as a client) send HTTP request to the server and receives an HTTP response. 
+Process :
+The response includes an HTML document that represents the page. The browser reads the HTML document to construct a Document Object Model.As soon as the DOM is ready, the browser renders the page.
+Tip : Use the Chrome DevTools to inspect HTTP requests and responses between the browser and the server. 
+
+HTML Doctype :
+An HTML document consists of a DOCTYPE declaration that specify the version of HTML used 
+The head element contains information about the page such as its title.
