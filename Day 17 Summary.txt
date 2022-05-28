@@ -1,0 +1,13 @@
+Day 17 20m
+Special Enitites
+Entities are used to display special characters such as angle brackets, copyright symbol, etc. 
+The most important entities are: &nbsp; (non-breaking space), &lt; (less than sign), &gt; (greater than sign) and &copy; (copyright symbol).
+
+Links
+2 type of URL links :
+relative URL : the target resource relative to the current resource. 
+absolute URL : the location of a resource It can start with a / to indicate the root of the website or a protocol (ex: http://) to represent a resource on a different website.
+
+Semantic
+Semantic elements help us write markup that is more meaningful  to search engines, screen readers and other software. So, use <div> and <span> elements when no other semantic element is appropriate.
+<header>, <footer>, <nav>, <main>,  <aside>, <article>, <section>, <figure>, <time> and <mark>.
